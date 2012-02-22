@@ -1,0 +1,1 @@
+(ns foursquare-clj.core)
